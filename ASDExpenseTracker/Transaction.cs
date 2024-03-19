@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
 
-namespace Budget_Tracking_App
+namespace ASDExpenseTracker
 {
     // Enum to represent the type of transaction: Debit or Credit
     public enum TransactionType
